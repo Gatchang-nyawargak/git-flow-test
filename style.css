@@ -1,0 +1,13 @@
+#container{
+    background-color: #0d0c22;
+    color: gray;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+    
+
+}
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+}
