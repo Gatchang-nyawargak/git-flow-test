@@ -3,6 +3,7 @@
     color: gray;
     display: grid;
     grid-template-columns: 50% 50%;
+    margin: 5%;
     
     
 
@@ -11,3 +12,62 @@ button{
     background-color: blueviolet;
     color: aliceblue;
 }
+#body{
+    background-color: rgb(26, 26, 61);
+
+}
+#topnav{
+    display: flex;
+    
+    float: right;
+    background-color: #0d0c22;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+.top2{
+    margin: 5%;
+    padding: 20px;
+    color: white;
+    -webkit-text-fill-color: antiquewhite;
+    
+    
+
+}
+.top3{
+    margin: 10%;
+    -webkit-text-fill-color: white;
+    display: flex;
+    
+}
+.top4{
+    margin: 10%;
+    -webkit-text-fill-color: grey;
+}
+.top5{
+    margin: 10% ;
+    -webkit-text-fill-color: grey;
+}
+.iner-container{
+    background-color: #0d0c22;
+    margin: 10%;
+    border-radius: 50px;
+
+
+
+}
+#header{
+    align-content: center;
+}
+
+    
+
+
+
+    
+
+
+    
+
+
